@@ -1,3 +1,3 @@
 # Weather_api
-<img src="File/Demo.gif" height=400 width=600>
+<img src="File/Demo.gif" >
 
